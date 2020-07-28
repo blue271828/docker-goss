@@ -1,0 +1,23 @@
+file:
+  /usr/local/bin/dgoss:
+    exists: true
+    mode: "0755"
+    size: 4289
+    owner: root
+    group: root
+    filetype: file
+    contains: []
+  /usr/local/bin/docker:
+    exists: true
+    mode: "0755"
+    size: 61113382
+    filetype: file
+    contains: []
+  /usr/local/bin/goss:
+    exists: true
+    mode: "0755"
+    size: 12263424
+    owner: root
+    group: root
+    filetype: file
+    contains: []
